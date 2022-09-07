@@ -1,6 +1,7 @@
 # MyCalculator
-![Screenshot (113)](https://user-images.githubusercontent.com/87525399/187382153-0202d0cb-8e40-483f-9535-b1167df316c4.png)
-![Screenshot (114)](https://user-images.githubusercontent.com/87525399/187382171-df29f466-d90f-41f0-9fb4-c0b8b6f7bee7.png)
+
+![Capture](https://user-images.githubusercontent.com/87525399/187641028-109fc7ec-a28a-4d7b-b667-ad67eed44a7c.JPG)
+![Capture1](https://user-images.githubusercontent.com/87525399/187641035-56a3c5b0-6d67-4bac-a279-02a038cf3a8f.JPG)
 
 Calculator with Dark and light mode
 
